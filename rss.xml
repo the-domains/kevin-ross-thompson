@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kevin Ross Thompson]]></title>
         <description><![CDATA[Kevin Ross Thompson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kevin-ross-thompson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 14:41:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 14:49:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kevin-ross-thompson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creativity, Vulnerability and Shame - I Create Nothing]]></title>
+            <description><![CDATA[<article><h1>Creativity, Vulnerability and Shame - I Create Nothing</h1><p>There's a piece in 12 Rules Of Creativity by Michael Atavar that says; At all times in the creative process, great care must be taken to protect your soft and vulnerable qualities. I wrestled with that statement for a long time. I was always taught that creativity was being vulnerable on a page or canvas or so on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b71c0bdaa55a6ea2fce805d278ee3b5a6e2fc00.jpg"></article>]]></description>
+            <link>http://icreatenothing.com/2016/01/creativity-vulnerability-and-shame/</link>
+            <guid isPermaLink="false">85ab5c02-1435-4634-9ffa-a61a86fa32e9</guid>
+            <pubDate>Thu, 21 Jan 2016 14:49:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EGO, PERSONAL BRANDING AND LEARNING TO LIVE WITH YOURSELF]]></title>
             <description><![CDATA[<article><h1>EGO, PERSONAL BRANDING AND LEARNING TO LIVE WITH YOURSELF</h1><p>The term personal branding is one that I’ve come to absolutely hate. I’ve worked in Marketing and Advertising and branding a company is just fine, even if the real brand is what actual people think of the company, but branding yourself seems disingenuous at best. For instance, on Instagram I never have a bad day, even if I don’t use filters. There’s pictures of perfectly framed scenes in Paris, walking through New York City and the moment after I proposed in London, but in reality I spend most of my time behind a computer in Houston. It’s a pretty normal life, but you wouldn’t know it if you only looked at my Instagram feed.</p></article>]]></description>
-            <link>undefinedego-personal-branding-and-learning-to-live-with-yourself/index.html</link>
+            <link>https://thegrid.ai/kevin-ross-thompson/ego-personal-branding-and-learning-to-live-with-yourself/index.html</link>
             <guid isPermaLink="false">c12912f0-9f96-4450-a06b-0f7af55b202c</guid>
             <pubDate>Thu, 21 Jan 2016 14:40:52 GMT</pubDate>
         </item>
