@@ -1,7 +1,7 @@
 name: Kevin Ross Thompson
 favicon: null
-layout_spectrum: 0.9594125871080905
-typography_spectrum: 0.3947261148132384
+layout_spectrum: 0.26624
+typography_spectrum: 0.4557
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8829281623475254
+  brandStrength: 0.6875
   lightness: 0.694629130885005
-  saturation: 0.14441487099975348
+  saturation: 0.3125
   rhythmicContrast: 0.9826207677833736
 purpose: []
